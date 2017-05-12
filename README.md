@@ -14,6 +14,7 @@ This is an example of how to integrate Ruby on Rails, RSpec, Capybara, and Selen
   - gem 'chromedriver-helper' (1.1.0)
   - gem 'launchy' (2.4.3)
 
+* Tests automatically launch a Chrome browser window (version 58.0)
 
 * bundle install all dependencies and run tests with:
   rspec --format documentation
